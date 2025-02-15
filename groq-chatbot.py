@@ -78,7 +78,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Header
-    st.title("💬 Groq Chatbot")
+    st.title("💬Chatbot")
     
     # Display chat messages
     for message in st.session_state.messages:
